@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Conose Panamá</title>
+</head>
+<body>
+<h1>Conose Panamá</h1>
+<ul>
+<li><a href="playas.html">Playas</a></li>
+<li><a href="montanas.html">Montañas</a></li>
+<li><a href="historia.html">Historia</a></li>
+<li><a href="gastronomia.html">Gastronomía</a></li>
+</ul>
+</body>
+</html> 
